@@ -11,7 +11,8 @@ The purpose of the STM32 Timer Calculator is to provide a tool for users to easi
 Finding the first 5 solutions for a Timer Event frequency of 1250 Hz. In addition the CRRx for a duty cycle of 12.5% are calculated. Timer base clock is 84Mhz
 
 ## Installation
-
+| Plugin | README |
+| ------ | ------ |
 | Download link: | [STM32 Timer Calculator GUI](https://github.com/orkunza/STM32_Timer_Calculator_GUI/releases/tag/v0.1) |
 
 
