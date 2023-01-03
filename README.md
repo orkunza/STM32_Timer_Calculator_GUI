@@ -1,5 +1,5 @@
 # STM32 Timer Calculator GUI 
-![Alt tex](https://github.com/orkunza/STM32_Timer_Calculator_GUI/blob/main/app.png "App Screenshot" =100x20)
+![Alt tex](https://github.com/orkunza/STM32_Timer_Calculator_GUI/blob/main/app.png "App Screenshot" )
 ## ℹ️Description
 
 - STM32 Timer Calculator is a GUI-based application written in Python that allows users to calculate the values needed to configure the timer peripherals of STM32 microcontrollers. It has a user-friendly interface that allows users to input the desired timer frequency and calculate the values for the prescaler and period registers. 
