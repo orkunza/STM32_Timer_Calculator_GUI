@@ -22,7 +22,7 @@ To use the STM32 Timer Calculator, the user will need to first install the appli
 The user can then use the calculated values to set up and configure the timer peripherals in their STM32 project.
 
 ## ⬇️Installation
-Download EXE: [STM32 Timer Calculator GUI](https://github.com/orkunza/STM32_Timer_Calculator_GUI/releases/tag/v0.1)
+Download: [STM32 Timer Calculator GUI](https://github.com/orkunza/STM32_Timer_Calculator_GUI/releases/tag/v0.1)
 
 
 ## 📜License
