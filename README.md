@@ -12,11 +12,12 @@
 
 To use the STM32 Timer Calculator, the user will need to first install the application by running the EXE file. Once the application is installed, the user can launch it and follow the steps below:
 
-- Input the desired timer frequency in the designated field.
-- Choose the desired timer clock source from the dropdown menu.
+- Write the desired timer frequency in the designated field. 
+- Write the clock source frequency from your microcontroller.
 - Click the "Calculate" button to compute the values for the prescaler and period registers.
-- The calculated values will be displayed in the designated fields.
-- If desired, the user can also click the "Generate C Code" button to generate C code that can be used in their project to configure the timer with the calculated values.
+- The calculated values will be displayed in the designated field.
+- PSC is your Prescaler values.
+- ARR is your Counter Period (AutoReload Register) values.
 The user can then use the calculated values to set up and configure the timer peripherals in their STM32 project.
 
 ## ⬇️Installation
