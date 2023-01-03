@@ -18,6 +18,7 @@ To use the STM32 Timer Calculator, the user will need to first install the appli
 - The calculated values will be displayed in the designated field.
 - PSC is your Prescaler values.
 - ARR is your Counter Period (AutoReload Register) values.
+
 The user can then use the calculated values to set up and configure the timer peripherals in their STM32 project.
 
 ## ⬇️Installation
