@@ -7,7 +7,7 @@
                     
 ## ▶️Usage 
 <p align="center">
-  <img src="https://github.com/orkunza/STM32_Timer_Calculator_GUI/blob/main/app.png" width="504" height="519">
+  <img src="https://github.com/orkunza/STM32_Timer_Calculator_GUI/blob/master/app.png" width="504" height="519">
 </p>
 
 To use the STM32 Timer Calculator, the user will need to first install the application by running the EXE file. Once the application is installed, the user can launch it and follow the steps below:
